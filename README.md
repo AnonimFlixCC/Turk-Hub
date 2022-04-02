@@ -4,4 +4,4 @@
 
 ## Supported Games (NEW GAME ADDED)
 - Collect All Pets! (https://www.roblox.com/games/8884433153/Collect-All-Pets)
-- Clone Tycoon 2 (Arena) (https://www.roblox.com/games/413424176/Clone-Tycoon-2)
+- Clone Tycoon 2 (Gladiator Arena) (https://www.roblox.com/games/413424176/Clone-Tycoon-2)
